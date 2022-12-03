@@ -1,1 +1,1 @@
-Check for valid commands before forking
+error messages and help
